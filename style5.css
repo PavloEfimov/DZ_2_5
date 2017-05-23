@@ -1,0 +1,18 @@
+.task-five{
+	background-color: rgba(128, 128, 128, 0.26);
+	width: 450px;
+	/*padding-left: 10px;
+	padding-bottom: 10px;*/
+	padding: 0px 0px 10px 10px;
+}
+h1{
+	color: #611919;
+	padding-top: 10px;
+}
+h3{
+	color: #865959;
+}
+span{
+	color: green;
+	text-decoration: underline;
+}
